@@ -1,6 +1,6 @@
-#Galoga Bootstrap Boilerplate
+###Galoga Bootstrap Boilerplate
 
-## Release info
+# Release info
 Version: 	1.96                                                                  Date :	2019-06-24 
 
 ## Welcome to the configure page
