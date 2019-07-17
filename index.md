@@ -1,9 +1,10 @@
 ## Galoga Bootstrap Boilerplate
-> #### Version 1.96 Date : 2019-06-24
+> #### Version 1.97 Date : 2019-07-07
 
 ## Welcome to the configure page
 This configure instruction will take you through how yo configre the boilerplate to your tailored needs.
 
 Most constanst running the site is found in a PHP page called:
 <code>/inc/php/php_con.inc</code>
-This file is a greta starting place to configure all the basics of the site.
+This file is a great starting place to configure all the basics of the site.
+
