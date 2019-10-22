@@ -1,6 +1,6 @@
 ## Galoga Bootstrap Boilerplate
-> #### Version 1.9.10 
-> #### Date : 2019-09-14
+> #### Version 2.19.10 
+> #### Date : 2019-10-22
 
 ## Welcome to the configure page
 This configure instruction will take you through how yo configre the boilerplate to your tailored needs.
