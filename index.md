@@ -9,8 +9,6 @@ This configure instruction will take you through how yo configre the boilerplate
 ### First thins first
 When you have downloaded and opened the zip file, it will look like this:
 
-
-
 ### Where it all starts.
 Most constanst running the site is found in a PHP page called:
 
