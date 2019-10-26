@@ -9,7 +9,7 @@ This configure instruction will take you through how yo configre the boilerplate
 ### First things first
 When you have downloaded and opened the zip file, it will it contains the following:
 
-![File layout](site.png)
+![File layout map](site.png)
 
 ### Where it all starts.
 Configure the variables in the config file called:
