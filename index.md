@@ -19,8 +19,9 @@ Configure the variables in the config file called:
 ### Deployment 
 
 1. Move all content in the folder <code>/public_html</code> to the public folder of your webserver 
+2. Move the folder <code>/inc</code> next to the public folder of your webserver 
 
 ### Pages and templates
-All pages are called via the <code>index.php</code> in the folder 
+All pages are called via the <code>index.php</code> in the public folder. All contents file are to be saved as <code>file_name.inc</code> to work properly
 
 There are two type of page templates: 
