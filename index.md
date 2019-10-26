@@ -22,6 +22,8 @@ Configure the variables in the config file called:
 2. Move the folder <code>/inc</code> next to the public folder of your webserver 
 
 ### Pages and templates
-All pages are called via the <code>index.php</code> in the public folder. All contents file are to be saved as <code>file_name.inc</code> to work properly
+All pages are called via the <code>index.php</code> in the public folder. All contents file are to be saved as <code>file_name.inc</code> to work properly.
+To public URL will be www.your-site-name.com/pid=file-name
 
 There are two type of page templates: 
+
