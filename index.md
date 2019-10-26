@@ -1,4 +1,4 @@
-## Galoga Bootstrap Boilerplate
+# Galoga Bootstrap Boilerplate
 > #### Version 2.19.10 
 > #### Date : 2019-10-26
 
@@ -6,11 +6,13 @@
 ### Introductions
 This configure instruction will take you through how yo configre the boilerplate to your tailored needs.
 
-### First thins first
-When you have downloaded and opened the zip file, it will look like this:
+### First things first
+When you have downloaded and opened the zip file, it will it contains the following:
+
+![File layout](site.png)
 
 ### Where it all starts.
-Most constanst running the site is found in a PHP page called:
+Configure the variables in the config file called:
 
 <code>/inc/php/php_con.inc</code>
 
