@@ -27,3 +27,6 @@ To public URL will be www.your-site-name.com/pid=file-name
 
 There are two type of page templates: 
 
+1. Unlocked page template (access possible direct) 		:   <code>x_page_template_NON-LOCKED.inc</code>
+2. Locked page tempalte (access only via the log on)	: 	<code>x_page_template_LOCKED.inc</code>
+
