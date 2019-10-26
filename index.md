@@ -11,12 +11,14 @@ When you have downloaded and opened the zip file, it will it contains the follow
 
 ![File layout map](site.png)
 
-### Where it all starts.
+### Where it all starts
 Configure the variables in the config file called:
 
 <code>/inc/php/php_con.inc</code>
 
-This file is a great starting place to configure all the basics of the site.
+### Deployment 
+
+1. Move all content in the folder <code>/public_html</code> to the public folder of your webserver 
 
 ### Pages and templates
 All pages are called via the <code>index.php</code> in the folder 
