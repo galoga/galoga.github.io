@@ -1,6 +1,6 @@
 # Galoga Bootstrap Boilerplate
 > #### Version 2.19.10 
-> #### Date : 2019-10-26
+> #### Date : 2019-10-29
 
 ## Welcome to the configure page
 ### Introductions
