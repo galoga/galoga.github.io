@@ -1,6 +1,6 @@
 # Galoga Bootstrap Boilerplate
-> #### Version 3.20.5
-> #### Date : 2020-05-23
+> #### Version : 3.20.9 Build : 293
+> #### Date : 2020-09-12
 
 ## Welcome to the configure page
 ### Introductions
@@ -56,8 +56,6 @@ Step **4.** Add content to the main content page:
 
 This has a welcome placeholder function out of the box - that is easily removed.    
 Just open the file and follow the instructions. 
-
-
 
 ### Pages and templates
 All pages are called via the <code>/public/index.php</code> in the public folder. Don't touch this file!
